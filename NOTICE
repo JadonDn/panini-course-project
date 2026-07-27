@@ -1,0 +1,15 @@
+Panini Structured-Memory Course Project
+
+This repository contains a teaching subset derived from 2WikiMultiHopQA:
+https://github.com/Alab-NII/2wikimultihop
+
+2WikiMultiHopQA is distributed under the Apache License 2.0. Please cite:
+
+Xanh Ho, Anh-Khoa Duong Nguyen, Saku Sugawara, and Akiko Aizawa.
+"Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of
+Reasoning Steps." COLING 2020.
+
+The Panini decomposer checkpoints are available at:
+
+https://huggingface.co/yigitturali/GSW-QA-Decomposer-Qwen3-4B
+https://huggingface.co/yigitturali/GSW-QA-Decomposer-Qwen3-8B
