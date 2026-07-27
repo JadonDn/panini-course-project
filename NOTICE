@@ -9,6 +9,16 @@ Xanh Ho, Anh-Khoa Duong Nguyen, Saku Sugawara, and Akiko Aizawa.
 "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of
 Reasoning Steps." COLING 2020.
 
+This repository also contains a teaching subset derived from MuSiQue:
+https://github.com/stonybrooknlp/musique
+
+MuSiQue is distributed under the Creative Commons Attribution 4.0
+International License. Please cite:
+
+Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, and Ashish Sabharwal.
+"MuSiQue: Multihop Questions via Single-hop Question Composition."
+Transactions of the Association for Computational Linguistics, 2022.
+
 The Panini decomposer checkpoints are available at:
 
 https://huggingface.co/yigitturali/GSW-QA-Decomposer-Qwen3-4B
