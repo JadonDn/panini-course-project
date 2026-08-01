@@ -107,10 +107,8 @@ Do not keep multiple neural models resident simultaneously.
 ## Student implementation boundary
 
 The package supplies artifact loaders, retrieval backends, graph parsing
-helpers, model wrappers, metrics, and RICR data structures. Students implement
-the two TODOs in `panini_course/ricr.py`: unique-answer beam pruning and the
-linear RICR search loop. The instructor solution and held-out labels are not
-included.
+helpers, model wrappers, metrics, and RICR data structures. The instructor
+solution and held-out labels are not included.
 
 Cross-document entity reconciliation is a separate network-analysis exercise.
 Students compare an unreconciled projection, the supplied exact-surface
