@@ -77,7 +77,7 @@ Prof.\ Vwani Roychowdhury \hfill UCLA Department of Electrical and Computer Engi
   {\LARGE\bfseries Reasoning Inference Chain Retrieval}\\[5pt]
   {\large Based on \PANINI: Continual Learning in Token Space via Structured Memory}\\[5pt]
   {\large\bfseries 150 points}\\[2pt]
-  {\large Due Saturday, August 15, 2026 at 11:59 PM Pacific Time}
+  {\large Due Friday, August 28, 2026 at 11:59 PM Pacific Time}
 \end{center}
 \vspace{4mm}
 \hrule height 0.8pt
@@ -147,7 +147,7 @@ clear GPU memory, and then begin the next stage.
 
 \paragraph{Compute policy.}
 The required path must run on a free Google Colab GPU. No paid API is required
-or permitted for the required results. Corpus GSWs, embeddings, and indices
+for the required results. Corpus GSWs, embeddings, and indices
 are supplied; regenerating them is outside the project scope.
 
 \section{Stage I: The memory arrives}
@@ -295,7 +295,7 @@ unreconciled graph can be evaluated under several identity hypotheses.
   \item Run the exact-surface baseline, then implement a conservative
         reconciliation rule using surface, type/role compatibility, and local
         neighborhood evidence. State the decision rule precisely.
-  \item Manually audit a fixed-seed sample of at least 30 proposed
+  \item Manually audit a fixed-seed sample of at least 15 proposed
         cross-document merges. Label each correct, incorrect, or uncertain;
         report estimated precision with uncertain cases shown separately.
         Include at least two false-merge and two missed-alias examples.
@@ -324,9 +324,16 @@ never asserted by any document. Your task is therefore not merely to compute
 statistics; it is to decide which observed structure belongs to the local GSWs
 and which was created by the reconciliation rule.
 
-Perform the following analysis separately for 2Wiki and MuSiQue. Compute every
-requested property on the unreconciled projection, exact-surface projection,
-and conservative projection; include native-graph measurements as a reference.
+Perform the full analysis below on 2Wiki. Compute every requested property on
+the unreconciled projection, exact-surface projection, and conservative
+projection; include native-graph measurements as a reference. For MuSiQue,
+provide a compact transfer summary rather than repeating the full analysis:
+report the number of components, giant-component fraction, isolated nodes,
+average and maximum degree, and the five highest weighted-degree nodes for the
+three entity projections. Briefly state which structural observations from
+2Wiki do and do not transfer to MuSiQue. You do not need to repeat the degree
+distribution plots, PageRank/betweenness rankings, clustering, or assortativity
+analysis for MuSiQue.
 
 \begin{enumerate}[label=(\alph*)]
   \item Compute weakly connected components of the native graph and connected
@@ -336,8 +343,8 @@ and conservative projection; include native-graph measurements as a reference.
         reconciliation rule changes these values.
   \item Plot degree probability mass and complementary cumulative degree
         distributions on log--log axes. State whether the heavy tail, if any,
-        is consistent across datasets and reconciliation rules; do not claim a
-        power law without a fitted test.
+        is consistent across reconciliation rules; do not claim a power law
+        without a fitted test.
   \item For each reconciled projection, report the ten highest nodes under
         weighted degree, PageRank, and betweenness centrality. Audit whether
         hubs represent entities, common attribute values, or reconciliation
@@ -354,9 +361,9 @@ and conservative projection; include native-graph measurements as a reference.
         alone.
 \end{enumerate}
 
-\deliverables At least four plots, two sensitivity tables, and a 200--300 word
-cross-dataset interpretation plus a 150--200 word hub explanation that
-separates local GSW structure from
+\deliverables At least four 2Wiki plots, two 2Wiki sensitivity tables, one
+compact MuSiQue transfer table, and a 200--300 word cross-dataset interpretation
+plus a 150--200 word hub explanation that separates local GSW structure from
 reconciliation artifacts.
 
 \grading Connectivity sensitivity (3), degree analysis (2), centrality audit
