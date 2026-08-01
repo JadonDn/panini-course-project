@@ -1,6 +1,7 @@
 # Course Project: Structured Memory Networks and RICR
 
-The canonical specification is [PROJECT_HANDOUT.pdf](PROJECT_HANDOUT.pdf).
+The canonical specification is
+[PROJECT_HANDOUT.pdf](../../PROJECT_HANDOUT.pdf).
 The handout contains the precise algorithms, metrics, output schema,
 deliverables, and 150-point allocation. It is organized as one continuous
 system-building story: each stage introduces the next technical problem, and

@@ -1,9 +1,10 @@
 # ECE 232E — Panini MuSiQue Companion Package
 
-[Read the complete 150-point project handout](PROJECT_HANDOUT.pdf).
-The editable LaTeX source is included as `PROJECT_HANDOUT.tex`.
+[Read the complete 150-point project handout](../../PROJECT_HANDOUT.pdf).
+The editable LaTeX source is available at
+[`PROJECT_HANDOUT.tex`](../../PROJECT_HANDOUT.tex).
 
-This folder is the self-contained 100-question MuSiQue companion to the
+This folder is the 100-question MuSiQue companion to the
 [2Wiki starter repository](https://github.com/YigitTurali/panini-course-project).
 It contains the selected questions, source documents, normalized GSW JSON
 networks, flattened entity/QA metadata, supplied Qwen3-Embedding-8B vectors,
