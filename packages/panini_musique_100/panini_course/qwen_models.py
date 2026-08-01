@@ -1,4 +1,4 @@
-"""Standalone wrappers for the supplied Qwen decomposer, encoder, and reranker."""
+"""Standalone wrappers for decomposition, encoding, reranking, and answering."""
 
 from __future__ import annotations
 

@@ -22,7 +22,11 @@
   },
   "reranker": {
     "model": "Qwen/Qwen3-Reranker-8B",
-    "quantization": "4bit-nf4-recommended-for-colab"
+    "free_colab_t4_fallback": "Qwen/Qwen3-Reranker-4B",
+    "use_8b_at_or_above_gib": 18,
+    "quantization": "4bit-nf4-recommended-for-colab",
+    "free_colab_batch_size": 1,
+    "free_colab_max_length": 256
   },
   "answer_model": {
     "model": "Qwen/Qwen3-4B",
