@@ -48,10 +48,10 @@ The default free-tier pipeline uses:
 
 1. [GSW-QA-Decomposer-Qwen3-4B](https://huggingface.co/yigitturali/GSW-QA-Decomposer-Qwen3-4B)
 2. supplied Qwen3-Embedding-8B corpus/fixed-query embeddings;
-3. [Qwen3-Reranker-8B](https://huggingface.co/Qwen/Qwen3-Reranker-8B) on GPUs
-   with at least 18 GiB, or
+3. [Qwen3-Reranker-8B](https://huggingface.co/Qwen/Qwen3-Reranker-8B) in 4-bit
+   mode on a 15 GiB T4, or
    [Qwen3-Reranker-4B](https://huggingface.co/Qwen/Qwen3-Reranker-4B) on a
-   15 GiB T4; and
+   the 4B fallback after an actual OOM; and
 4. [Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) for evidence-grounded
    final answers.
 
@@ -63,8 +63,9 @@ is not required.
 ## Student boundary
 
 Corpus GSW and embedding generation is not a student task. Students analyze
-the network, compare retrieval methods, run decomposition, and implement
-unique-answer beam pruning plus the linear RICR loop. Held-out answers and
+the network, compare retrieval methods, run decomposition, and implement the
+connected-DAG RICR executor, including multi-parent beam combination and the
+different intermediate/final-hop pruning rules. Held-out answers and
 supporting evidence are stored separately from this package.
 
 Global entity reconciliation is required only for the network-analysis
