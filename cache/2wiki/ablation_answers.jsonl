@@ -1,0 +1,200 @@
+{"dataset": "2wiki", "configuration": "default", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Matthew Knox.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Karin Månsdotter.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "The Dixie Flyer.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Grammy Award for Best R&B Album.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank In The R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Charles I.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "The Love Trader.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Eleanor of Provence.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "default", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "France.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank in the R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "The Love Trader.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Matthew Knox is younger.", "exact_match": 0.0, "token_f1": 0.6666666666666666}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "Not specified in the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Harusindan.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "The Dixie Flyer.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Grammy Award for Best R&B Album.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank in the R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Eleanor of Provence.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Thomas Praytor is younger.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Karin Månsdotter.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "The Dixie Flyer.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Grammy Award for Best R&B Album.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank In The R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Charles I.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "The Love Trader.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Eleanor of Provence.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "unique_off", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Matthew Knox.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Karin Månsdotter.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "College Lovers", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Grammy Award for Best R&B Album.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank in the R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Charles I.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "The Love Trader.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Eleanor of Provence.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "last_hop", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Matthew Knox.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Karin Månsdotter.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "The Dixie Flyer.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Grammy Award for Best R&B Album.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank In The R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Charles I.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "The Love Trader.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Eleanor of Provence.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "parent_threshold_off", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "Irish.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Matthew Knox.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "1 May 1978.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Dietrich III of Limburg.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "A Lizard in a Woman's Skin", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Not specified in the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "College Lovers", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank In The R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Taxi Zum Klo", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Scaregivers.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Pravachakan", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Not specified in the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "bm25", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Thomas Praytor is older than Matthew Knox.", "exact_match": 0.0, "token_f1": 0.4444444444444445}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "1 May 1978.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Not specified in the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Queen Christina of Sweden.", "exact_match": 0.0, "token_f1": 0.28571428571428575}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "The Dixie Flyer.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Grammy Award for Best R&B Album.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank in the R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "The Love Trader.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Eleanor of Provence.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "dense", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "1 May 1978.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "College Lovers", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Cannot determine the award from the provided information.", "exact_match": 0.0, "token_f1": 0.16666666666666666}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank In The R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Karl von Habsburg.", "exact_match": 0.0, "token_f1": 0.6666666666666666}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "Clancy Of The Mounted.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Matilda of France.", "exact_match": 0.0, "token_f1": 0.3333333333333333}
+{"dataset": "2wiki", "configuration": "rrf", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "Both films have directors who died on the same date, February 18, 1976.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "3d4662300bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "53ab316c08b911ebbd88ac1f6bf848b6", "predicted_answer": "The Fatal Mistake", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "005238da0bde11eba7f7acde48001122", "predicted_answer": "United States.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "006d81bc0bde11eba7f7acde48001122", "predicted_answer": "American.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "02102208088011ebbd6cac1f6bf848b6", "predicted_answer": "Matthew Knox.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Karin Månsdotter.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "The Dixie Flyer.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Grammy Award for Best R&B Album.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "1cf6b11808a111ebbd78ac1f6bf848b6", "predicted_answer": "A Yank In The R.A.F.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "2ea72c0c084d11ebbd56ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "3040e4fb085611ebbd59ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Charles I.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "k_5", "question_id": "3cc3895c08cf11ebbd94ac1f6bf848b6", "predicted_answer": "The Love Trader.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "05ca5a800bda11eba7f7acde48001122", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "1194abf60bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "1649093b091e11ebbdaeac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "169c31500bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "16e1006809ab11ebbdb0ac1f6bf848b6", "predicted_answer": "Distant Lover.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "182ecc9a0baf11ebab90acde48001122", "predicted_answer": "Not available in the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "19e6c50608d711ebbd99ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "1a5c63320bdd11eba7f7acde48001122", "predicted_answer": "Rome.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "2wiki", "configuration": "beam_1", "question_id": "1bf41cb00bda11eba7f7acde48001122", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "32c23401097711ebbdb0ac1f6bf848b6", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "2wiki", "configuration": "beam_3", "question_id": "3413a86c0bb011ebab90acde48001122", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}

@@ -1,0 +1,200 @@
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__119423_779396", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__123509_5385", "predicted_answer": "Cannot determine the number of people working at the University of Oklahoma based on the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__159215_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__223655_463572", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Sun Studio.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "default", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Southampton.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Sargasso Sea.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "default", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__119423_779396", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__123509_5385", "predicted_answer": "Cannot determine the number of people who work in the University of Oklahoma based on the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__159215_779396", "predicted_answer": "Rotterdam.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__223655_463572", "predicted_answer": "Nortel Music Group.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Not specified.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Xanana Gusao.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Cannot determine the answer from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Southampton Castle.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Sargasso Sea.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_1", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__119423_779396", "predicted_answer": "Not specified in the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__123509_5385", "predicted_answer": "Cannot determine the number of people who work in the University of Oklahoma based on the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__159215_779396", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__223655_463572", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "February 7, 2018.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Sun Studio.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Philadelphia Greyhound Terminal.", "exact_match": 0.0, "token_f1": 0.3333333333333333}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Southampton Castle.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Sargasso Sea.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "beam_3", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__119423_779396", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__123509_5385", "predicted_answer": "Cannot determine the number of people working at the University of Oklahoma based on the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__159215_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__223655_463572", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Sun Studio.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Southampton.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Sargasso Sea.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "k_5", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__119423_779396", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__123509_5385", "predicted_answer": "Cannot determine the number of people who work in the University of Oklahoma based on the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__159215_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__223655_463572", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Sun Studio.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Southampton.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Sargasso Sea.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "unique_off", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__107601_110222", "predicted_answer": "Not specified.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__107905_110222", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__119423_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__123509_5385", "predicted_answer": "11,900", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__159215_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__223655_463572", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Sun Studio.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "February 7, 2018.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Philadelphia Greyhound Terminal.", "exact_match": 0.0, "token_f1": 0.3333333333333333}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Southampton Castle.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Sargasso Sea.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "last_hop", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the given information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__119423_779396", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__123509_5385", "predicted_answer": "Cannot determine the number of people working at the University of Oklahoma based on the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__159215_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__223655_463572", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Sun Studio.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "Winter of the 2017-18 network television season.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Southampton.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Sargasso Sea.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "parent_threshold_off", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__108158_83769", "predicted_answer": "Matthew McConaughey.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__119423_779396", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__123509_5385", "predicted_answer": "11,900", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__155781_155922", "predicted_answer": "Sydney Harbour.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__157251_556157", "predicted_answer": "Shashe River.", "exact_match": 0.0, "token_f1": 0.5}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__159215_779396", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__223655_463572", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "2002", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "February 7, 2018.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Cannot determine the city.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Toronto Castle.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Unable to determine from provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Atlantic Ocean.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "bm25", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__107601_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__119423_779396", "predicted_answer": "University of Edinburgh.", "exact_match": 0.0, "token_f1": 0.6666666666666666}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__123509_5385", "predicted_answer": "11,900", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__159215_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__223655_463572", "predicted_answer": "Jasmine Records.", "exact_match": 0.0, "token_f1": 0.5}
+{"dataset": "musique", "configuration": "dense", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "February 7, 2018.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Oriole Records.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "February 7, 2018.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Pidhirtsi Castle.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Atlantic Ocean.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "dense", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Nassau County.", "exact_match": 0.0, "token_f1": 0.5}
+{"dataset": "musique", "configuration": "dense", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__107601_110222", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__107905_110222", "predicted_answer": "10 June 1819.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__108158_83769", "predicted_answer": "The question contains incorrect information, as \"Push, Nevada\" is not a character in Dazed and Confused.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__119423_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__123509_5385", "predicted_answer": "11,900", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__155781_155922", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__157251_556157", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__159215_779396", "predicted_answer": "University of Glasgow.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__223655_463572", "predicted_answer": "Jasmine Records.", "exact_match": 0.0, "token_f1": 0.5}
+{"dataset": "musique", "configuration": "rrf", "question_id": "2hop__226204_69048", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "3hop1__139862_2053_52946", "predicted_answer": "February 7, 2018.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "3hop1__140345_2053_5289", "predicted_answer": "Oriole Records.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "3hop1__140345_2053_52946", "predicted_answer": "February 7, 2018.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "3hop1__144439_443779_52195", "predicted_answer": "Francisco Guterres.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "3hop1__210639_147339_47686", "predicted_answer": "Toronto.", "exact_match": 0.0, "token_f1": 0.5}
+{"dataset": "musique", "configuration": "rrf", "question_id": "3hop1__210639_147339_51423", "predicted_answer": "Cannot determine from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "4hop1__277409_49925_13759_736921", "predicted_answer": "Cannot be determined from the provided information.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "4hop1__39871_314549_131976_90181", "predicted_answer": "Milwaukee Deep.", "exact_match": 1.0, "token_f1": 1.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "4hop1__473563_309800_355213_203322", "predicted_answer": "Cannot determine.", "exact_match": 0.0, "token_f1": 0.0}
+{"dataset": "musique", "configuration": "rrf", "question_id": "4hop1__525129_315334_131926_13165", "predicted_answer": "Treaty of Guadalupe Hidalgo.", "exact_match": 0.0, "token_f1": 0.5714285714285715}
