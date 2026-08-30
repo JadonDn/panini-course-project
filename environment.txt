@@ -1,0 +1,27 @@
+# Environment
+
+## Python
+python = 3.13.15
+platform = Linux-6.6.122+-x86_64-with-glibc2.35
+
+## CUDA
+pytorch = 2.11.0+cu128
+cuda = 12.8
+gpu = NVIDIA A100-SXM4-40GB
+
+## Packages
+transformers = 5.15.0
+accelerate = 1.14.0
+bitsandbytes = 0.50.1
+scikit-learn = 1.6.1
+faiss-cpu = 1.15.0
+rank-bm25 = 0.2.2
+pandas = 2.2.3
+numpy = 2.1.3
+
+## Models
+decomposer = yigitturali/GSW-QA-Decomposer-Qwen3-4B
+
+reranker = Qwen/Qwen3-Reranker-8B
+
+answer_model = Qwen/Qwen3-4B
